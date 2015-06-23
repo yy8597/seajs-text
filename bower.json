@@ -1,0 +1,19 @@
+{
+  name: 'seajs-text',
+  version: '1.1.1
+  main: './dist/seajs-text.js',
+  ignore: [
+    '**/.*',
+    'dist',
+    'src',
+    'tests',
+    'CNAME',
+    'component.json',
+    'CONTRIBUTING.md',
+    'index.html',
+    'Makefile',
+    'package.json',
+    'README.md'
+  ],
+  homepage: 'https://github.com/yy8597/seajs-text'
+}
